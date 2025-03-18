@@ -1,9 +1,9 @@
 ## HI I'M NAILA ✨✨
 
-🧠 Software engineering student at SMK Budi Luhur 
-💻 I create website to advance my skill 
-🎮 I create some game desktop based on godot 
-💯 I have account of Instagram [Instagram](https://www.instagram.com/naii_d0.0/)
+🧠 Software engineering student at SMK Budi Luhur</br>
+💻 I create website to advance my skill</br> 
+🎮 I create some game desktop based on godot</br> 
+💯 I have account of Instagram [Instagram](https://www.instagram.com/naii_d0.0/)</br>
 
 
 # 💻 Tech Stack:
