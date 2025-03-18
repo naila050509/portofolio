@@ -3,7 +3,7 @@
 🧠 Software engineering student at SMK Budi Luhur</br>
 💻 I create website to advance my skill</br> 
 🎮 I create some game desktop based on godot</br> 
-💯 I have account of Instagram [Instagram](https://www.instagram.com/naii_d0.0/)</br>
+💯 I have account of Instagram [naiii_d0.0](https://www.instagram.com/naii_d0.0/)</br>
 
 
 # 💻 Tech Stack:
